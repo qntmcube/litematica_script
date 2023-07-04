@@ -3,51 +3,73 @@
 +-------------------------------+-------+---------+-----------+
 | Item                          | Total | Missing | Available |
 +-------------------------------+-------+---------+-----------+
+| Cyan Terracotta               |  1914 |    1914 |         0 |
+| Light                         |  1764 |    1764 |         0 |
+| Smooth Quartz Block           |   936 |     936 |         0 |
 | Acacia Wood                   |   819 |     819 |         0 |
+| Quartz Bricks                 |   800 |     800 |         0 |
+| Redstone Dust                 |   776 |     776 |         0 |
+| Smooth Quartz Slab            |   610 |     610 |         0 |
 | Stone Brick Slab              |   496 |     496 |         0 |
 | Oak Leaves                    |   474 |     474 |         0 |
 | White Stained Glass           |   441 |     441 |         0 |
+| Cyan Wool                     |   434 |     434 |         0 |
 | Lime Terracotta               |   396 |     396 |         0 |
 | Cyan Stained Glass            |   363 |     363 |         0 |
+| Quartz Pillar                 |   343 |     343 |         0 |
+| Cobblestone Wall              |   282 |     282 |         0 |
 | Stone Brick Stairs            |   231 |     231 |         0 |
 | Smooth Basalt                 |   221 |     221 |         0 |
 | Smooth Quartz Stairs          |   221 |     221 |         0 |
 | Glowstone                     |   215 |     215 |         0 |
 | Block of Coal                 |   198 |     198 |         0 |
+| Lime Wool                     |   198 |     198 |         0 |
 | Yellow Terracotta             |   195 |     195 |         0 |
 | Shroomlight                   |   193 |     193 |         0 |
-| Acacia Log                    |   190 |     190 |         8 |
+| Acacia Log                    |   190 |     190 |         0 |
 | Redstone Repeater             |   188 |     188 |         0 |
+| Green Wool                    |   180 |     180 |         3 |
+| Glass                         |   179 |     179 |         0 |
+| Red Terracotta                |   177 |     177 |         0 |
 | Stone Bricks                  |   135 |     135 |         0 |
 | White Stained Glass Pane      |   135 |     135 |         0 |
 | Pink Stained Glass            |   133 |     133 |         0 |
+| Magenta Wool                  |   130 |     130 |         0 |
+| Yellow Wool                   |   126 |     126 |         0 |
 | Light Blue Terracotta         |   125 |     125 |         0 |
+| Pink Wool                     |   115 |     115 |         0 |
 | Sticky Piston                 |   104 |     104 |         0 |
 | Hopper                        |   101 |     101 |         0 |
+| Light Blue Wool               |   101 |     101 |         0 |
 | Observer                      |    96 |      96 |         0 |
 | Powered Rail                  |    95 |      95 |         0 |
 | Note Block                    |    93 |      93 |         0 |
 | White Wool                    |    79 |      79 |         0 |
+| Red Wool                      |    69 |      69 |         0 |
 | Green Glazed Terracotta       |    61 |      61 |         0 |
 | Redstone Comparator           |    61 |      61 |         0 |
 | Purple Wool                   |    56 |      56 |         0 |
 | Redstone Lamp                 |    56 |      56 |         0 |
 | Redstone Torch                |    56 |      56 |         0 |
+| Orange Wool                   |    53 |      53 |         0 |
+| Light Gray Wool               |    52 |      52 |         0 |
 | Chest                         |    51 |      51 |         0 |
 | Magenta Stained Glass         |    49 |      49 |         0 |
 | Block of Emerald              |    46 |      46 |         0 |
 | Green Terracotta              |    45 |      45 |         0 |
-| Slime Block                   |    41 |      41 |        38 |
+| Slime Block                   |    41 |      41 |        39 |
 | String                        |    41 |      41 |         0 |
 | Chain                         |    38 |      38 |         0 |
 | Dropper                       |    35 |      35 |         0 |
 | Tripwire Hook                 |    33 |      33 |         0 |
 | Rail                          |    32 |      32 |         0 |
 | Black Wool                    |    31 |      31 |         0 |
+| Blue Wool                     |    30 |      30 |         0 |
 | Oak Planks                    |    30 |      30 |         0 |
 | Oak Sign                      |    28 |      28 |         0 |
 | Blackstone                    |    24 |      24 |         0 |
 | Quartz Stairs                 |    23 |      23 |         0 |
+| Gray Wool                     |    21 |      21 |         0 |
 | Lime Stained Glass Pane       |    19 |      19 |         0 |
 | Polished Diorite Stairs       |    19 |      19 |         0 |
 | Red Stained Glass Pane        |    19 |      19 |         0 |
@@ -71,6 +93,7 @@
 | Lime Stained Glass            |    11 |      11 |         0 |
 | Piston                        |    11 |      11 |         0 |
 | Block of Redstone             |    10 |      10 |         0 |
+| Brown Wool                    |    10 |      10 |         0 |
 | Orange Stained Glass          |    10 |      10 |         0 |
 | Red Stained Glass             |    10 |      10 |         0 |
 | Smooth Stone Slab             |    10 |      10 |         0 |
@@ -86,6 +109,7 @@
 | Iron Trapdoor                 |     5 |       5 |         0 |
 | Purple Stained Glass          |     5 |       5 |         0 |
 | Water Bucket                  |     5 |       5 |         1 |
+| Blue Terracotta               |     4 |       4 |         0 |
 | Cactus                        |     4 |       4 |         0 |
 | Oak Wood                      |     4 |       4 |         0 |
 | Polished Blackstone Stairs    |     4 |       4 |         0 |
