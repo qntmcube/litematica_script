@@ -1,0 +1,133 @@
++-------------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                       |
++-------------------------------+-------+---------+-----------+
+| Item                          | Total | Missing | Available |
++-------------------------------+-------+---------+-----------+
+| Acacia Wood                   |   819 |     819 |         0 |
+| Stone Brick Slab              |   496 |     496 |         0 |
+| Oak Leaves                    |   474 |     474 |         0 |
+| White Stained Glass           |   441 |     441 |         0 |
+| Lime Terracotta               |   396 |     396 |         0 |
+| Cyan Stained Glass            |   363 |     363 |         0 |
+| Stone Brick Stairs            |   231 |     231 |         0 |
+| Smooth Basalt                 |   221 |     221 |         0 |
+| Smooth Quartz Stairs          |   221 |     221 |         0 |
+| Glowstone                     |   215 |     215 |         0 |
+| Block of Coal                 |   198 |     198 |         0 |
+| Yellow Terracotta             |   195 |     195 |         0 |
+| Shroomlight                   |   193 |     193 |         0 |
+| Acacia Log                    |   190 |     190 |         8 |
+| Redstone Repeater             |   188 |     188 |         0 |
+| Stone Bricks                  |   135 |     135 |         0 |
+| White Stained Glass Pane      |   135 |     135 |         0 |
+| Pink Stained Glass            |   133 |     133 |         0 |
+| Light Blue Terracotta         |   125 |     125 |         0 |
+| Sticky Piston                 |   104 |     104 |         0 |
+| Hopper                        |   101 |     101 |         0 |
+| Observer                      |    96 |      96 |         0 |
+| Powered Rail                  |    95 |      95 |         0 |
+| Note Block                    |    93 |      93 |         0 |
+| White Wool                    |    79 |      79 |         0 |
+| Green Glazed Terracotta       |    61 |      61 |         0 |
+| Redstone Comparator           |    61 |      61 |         0 |
+| Purple Wool                   |    56 |      56 |         0 |
+| Redstone Lamp                 |    56 |      56 |         0 |
+| Redstone Torch                |    56 |      56 |         0 |
+| Chest                         |    51 |      51 |         0 |
+| Magenta Stained Glass         |    49 |      49 |         0 |
+| Block of Emerald              |    46 |      46 |         0 |
+| Green Terracotta              |    45 |      45 |         0 |
+| Slime Block                   |    41 |      41 |        38 |
+| String                        |    41 |      41 |         0 |
+| Chain                         |    38 |      38 |         0 |
+| Dropper                       |    35 |      35 |         0 |
+| Tripwire Hook                 |    33 |      33 |         0 |
+| Rail                          |    32 |      32 |         0 |
+| Black Wool                    |    31 |      31 |         0 |
+| Oak Planks                    |    30 |      30 |         0 |
+| Oak Sign                      |    28 |      28 |         0 |
+| Blackstone                    |    24 |      24 |         0 |
+| Quartz Stairs                 |    23 |      23 |         0 |
+| Lime Stained Glass Pane       |    19 |      19 |         0 |
+| Polished Diorite Stairs       |    19 |      19 |         0 |
+| Red Stained Glass Pane        |    19 |      19 |         0 |
+| Yellow Stained Glass Pane     |    19 |      19 |         0 |
+| Light Blue Stained Glass Pane |    17 |      17 |         0 |
+| Cyan Stained Glass Pane       |    16 |      16 |         0 |
+| Lever                         |    16 |      16 |         0 |
+| Polished Andesite Stairs      |    16 |      16 |         0 |
+| Polished Diorite Slab         |    15 |      15 |         0 |
+| Yellow Stained Glass          |    15 |      15 |         0 |
+| Twisting Vines                |    14 |      14 |         0 |
+| Azalea Leaves                 |    13 |      13 |         0 |
+| Block of Quartz               |    13 |      13 |         0 |
+| Polished Andesite             |    13 |      13 |         0 |
+| Snow Block                    |    13 |      13 |         0 |
+| Spruce Stairs                 |    13 |      13 |         0 |
+| Crying Obsidian               |    12 |      12 |         0 |
+| Spruce Planks                 |    12 |      12 |         0 |
+| Block of Iron                 |    11 |      11 |         0 |
+| Flower Pot                    |    11 |      11 |         0 |
+| Lime Stained Glass            |    11 |      11 |         0 |
+| Piston                        |    11 |      11 |         0 |
+| Block of Redstone             |    10 |      10 |         0 |
+| Orange Stained Glass          |    10 |      10 |         0 |
+| Red Stained Glass             |    10 |      10 |         0 |
+| Smooth Stone Slab             |    10 |      10 |         0 |
+| Target                        |    10 |      10 |         0 |
+| Green Stained Glass           |     8 |       8 |         0 |
+| Polished Andesite Slab        |     7 |       7 |         0 |
+| Powder Snow Bucket            |     7 |       7 |         0 |
+| Coarse Dirt                   |     6 |       6 |         0 |
+| Ladder                        |     6 |       6 |         0 |
+| Light Blue Stained Glass      |     6 |       6 |         0 |
+| Polished Blackstone           |     6 |       6 |         0 |
+| Flowering Azalea Leaves       |     5 |       5 |         0 |
+| Iron Trapdoor                 |     5 |       5 |         0 |
+| Purple Stained Glass          |     5 |       5 |         0 |
+| Water Bucket                  |     5 |       5 |         1 |
+| Cactus                        |     4 |       4 |         0 |
+| Oak Wood                      |     4 |       4 |         0 |
+| Polished Blackstone Stairs    |     4 |       4 |         0 |
+| Polished Diorite              |     4 |       4 |         0 |
+| Spruce Sign                   |     4 |       4 |         0 |
+| White Carpet                  |     4 |       4 |         0 |
+| Barrel                        |     3 |       3 |         0 |
+| Detector Rail                 |     3 |       3 |         0 |
+| Diorite Wall                  |     3 |       3 |         0 |
+| Flowering Azalea              |     3 |       3 |         0 |
+| Honey Block                   |     3 |       3 |         0 |
+| Soul Sand                     |     3 |       3 |         0 |
+| Spruce Fence                  |     3 |       3 |         0 |
+| Stone Button                  |     3 |       3 |         0 |
+| White Terracotta              |     3 |       3 |         0 |
+| Yellow Carpet                 |     3 |       3 |         0 |
+| Azalea                        |     2 |       2 |         0 |
+| Black Stained Glass           |     2 |       2 |         0 |
+| Iron Door                     |     2 |       2 |         0 |
+| Mangrove Sign                 |     2 |       2 |         0 |
+| Polished Blackstone Button    |     2 |       2 |         0 |
+| Polished Blackstone Slab      |     2 |       2 |         0 |
+| Soul Lantern                  |     2 |       2 |         0 |
+| Spruce Slab                   |     2 |       2 |         0 |
+| Acacia Door                   |     1 |       1 |         0 |
+| Andesite Wall                 |     1 |       1 |         0 |
+| Beacon                        |     1 |       1 |         0 |
+| Block of Gold                 |     1 |       1 |         0 |
+| Blue Orchid                   |     1 |       1 |         0 |
+| Cauldron                      |     1 |       1 |         0 |
+| Cornflower                    |     1 |       1 |         0 |
+| Dispenser                     |     1 |       1 |         0 |
+| Green Carpet                  |     1 |       1 |         0 |
+| Light Blue Carpet             |     1 |       1 |         0 |
+| Lily of the Valley            |     1 |       1 |         0 |
+| Oak Slab                      |     1 |       1 |         0 |
+| Packed Ice                    |     1 |       1 |         0 |
+| Pumpkin                       |     1 |       1 |         0 |
+| Red Carpet                    |     1 |       1 |         0 |
+| Sand                          |     1 |       1 |         0 |
+| Stone Pressure Plate          |     1 |       1 |         0 |
+| Yellow Glazed Terracotta      |     1 |       1 |         0 |
++-------------------------------+-------+---------+-----------+
+| Item                          | Total | Missing | Available |
++-------------------------------+-------+---------+-----------+
