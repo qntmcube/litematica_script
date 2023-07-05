@@ -7,6 +7,7 @@ for i in lines:
     if len(line) == 6 and "Item" not in line[1]:
         item.append(line[1].strip())
         number.append(line[2].strip())
+file1.close()
 with open('output/items.txt', 'w') as f:
     for i in item:
         f.write(i + "\n")
